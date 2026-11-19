@@ -1,4 +1,4 @@
-# Kết quả kiểm web Toán (19/11/2026 16:01)
+# Kết quả kiểm web Toán (19/11/2026 16:03)
 
 Lệnh: `python3 nguon/kiem_site.py`. Trang kiểm: 15 (gồm 404).
 
@@ -46,13 +46,13 @@ Lệnh: `python3 nguon/kiem_site.py`. Trang kiểm: 15 (gồm 404).
 | `/cau-hoi/` | 10,222 |
 | `/chuong-trinh/` | 9,967 |
 | `/co-trang/` | 6,220 |
-| `/dang-ky/` | 7,794 |
+| `/dang-ky/` | 7,802 |
 | `/hanh-trinh/` | 6,062 |
 | `/` | 15,712 |
-| `/lo-trinh/` | 12,197 |
+| `/lo-trinh/` | 12,217 |
 | `/muc-tieu/` | 8,401 |
 | `/phong-thi-nghiem/` | 6,681 |
 | `/tu-lop-hoc/` | 6,320 |
 | `/` | 5,082 |
 
-CSS 16,745 · JS 822 · logo ngang SVG 27,675 · biểu tượng SVG 19,312 · ảnh chia sẻ mỗi trang khoảng 43,927 (chỉ tải khi mạng xã hội cần)
+CSS 17,241 · JS 822 · logo ngang SVG 27,675 · biểu tượng SVG 19,312 · ảnh chia sẻ mỗi trang khoảng 43,927 (chỉ tải khi mạng xã hội cần)

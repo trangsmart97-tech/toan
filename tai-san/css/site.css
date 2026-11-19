@@ -60,7 +60,7 @@ ul, ol { padding-left: 1.2em; margin: 0 0 1em; }
 .dau__logo img { display: block; height: 44px; width: auto; }
 .nut-menu { display: none; font: inherit; font-weight: 600; color: var(--tim); background: transparent; border: 1.5px solid var(--tim); border-radius: 999px; min-height: 48px; padding: 0 20px; cursor: pointer; }
 .nut-menu[aria-expanded="true"] { background: var(--tim-nen); }
-.menu { padding: 8px 0 20px; }
+.menu { padding: 8px 0 20px; max-height: calc(100vh - 72px); overflow-y: auto; }
 .menu ul { list-style: none; margin: 0; padding: 0; display: grid; gap: 2px; }
 .menu a { display: flex; align-items: center; min-height: 48px; padding: 0 12px; border-radius: 10px; text-decoration: none; font-weight: 500; color: var(--chu); }
 .menu a:hover, .menu a[aria-current="page"] { background: var(--tim-nen); color: var(--tim); }
@@ -77,7 +77,7 @@ ul, ol { padding-left: 1.2em; margin: 0 0 1em; }
   .js .nut-menu { display: none; }
   .dau__hang { min-height: 72px; flex-wrap: nowrap; }
   .js .menu[hidden] { display: block; }
-  .menu { padding: 0; flex: 1; flex-basis: auto; }
+  .menu { padding: 0; flex: 1; flex-basis: auto; max-height: none; overflow: visible; }
   .menu ul { display: flex; align-items: center; justify-content: flex-end; gap: 2px; }
   .menu a { min-height: 44px; padding: 0 10px; white-space: nowrap; }
   .menu .menu__phu { margin: 0 0 0 8px; padding: 0 0 0 8px; border-top: 0; border-left: 1px solid var(--vien); }
@@ -216,6 +216,16 @@ a.chip:hover { background: var(--tim-nen); border-color: var(--tim); }
 .bang-buoi td:last-child, .bang-buoi th:last-child { text-align: right; white-space: nowrap; }
 .bang-buoi tfoot td, .bang-buoi tfoot th { font-weight: 600; color: var(--tim); border-bottom: 0; }
 .bang-cuon { overflow-x: auto; }
+.bang-lh th, .bang-lh td { text-align: left; white-space: normal; }
+.bang-lh th { width: 8.5rem; color: var(--tim); }
+.bang-lh td:last-child, .bang-lh th:last-child { text-align: left; white-space: normal; }
+.bang-lh .cho--nho { display: block; }
+.cho--nho { max-width: 100%; }
+@media (max-width: 639px) {
+  .bang-lh, .bang-lh tbody, .bang-lh tr, .bang-lh th, .bang-lh td { display: block; width: 100%; }
+  .bang-lh tr { padding: 10px 0; border-bottom: 1px solid var(--vien); }
+  .bang-lh th, .bang-lh td { border: 0; padding: 2px 0; }
+}
 
 /* Chỗ chờ cô điền */
 .cho { border: 2px dashed var(--dat); background: var(--dat-nen); border-radius: var(--be); padding: 18px 20px; color: var(--chu); }

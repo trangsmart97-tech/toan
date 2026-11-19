@@ -577,7 +577,10 @@ def trang_lo_trinh():
             ghi.append(f"Trạm {so_tram(next(t for t in T if t['ma'] == tr[0]['khoi']))}" + (f" đến {so_tram(next(t for t in T if t['ma'] == tr[-1]['khoi']))}" if len(tr) > 1 else "") + f" ({sum(h['buoi'] for h in tr)} buổi)")
             ghi.append(f"ôn tích hợp {on} buổi")
             ghi.append(f"đánh giá {dg} buổi")
-            dong += f"<li><h3>Chặng {i}</h3><p class=\"nho\">{'; '.join(ghi)}.</p><p>{ten_tr}.</p></li>"
+            on_ten = next((h["noi_dung"] for h in c if h["khoi"] == "Ôn"), "")
+            m_chang = re.search(r"Chặng (\d+)", on_ten)
+            ten_chang = f"Chặng {m_chang.group(1)}" if m_chang else "Chặng cuối năm"
+            dong += f"<li><h3>{ten_chang}</h3><p class=\"nho\">{'; '.join(ghi)}.</p><p>{ten_tr}.</p></li>"
         # phần cuối năm không thuộc chặng nào
         cuoi = ""
         if du:
@@ -764,7 +767,7 @@ def trang_dang_ky():
 <div class="hai-cot">
 <div class="noi-dung">
 <h2>Liên hệ</h2>
-<div class="bang-cuon"><table class="bang-buoi"><tbody>{bang}</tbody></table></div>
+<div class="bang-cuon"><table class="bang-buoi bang-lh"><tbody>{bang}</tbody></table></div>
 <p class="nho" style="margin-top:14px">Trang này không có biểu mẫu và không thu thập thông tin của ba mẹ hay của con.</p>
 </div>
 <div class="noi-dung">
