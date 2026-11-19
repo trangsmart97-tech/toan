@@ -1,0 +1,576 @@
+{
+ "nguon": "MỤC LỤC CHƯƠNG TRÌNH TOÁN TƯ DUY 3 NĂM - BẢN 9.2 (CHỜ CÔ DUYỆT).docx",
+ "md5_nguon": "5ae5d4db20b69b713fe900d5fd8ad58c",
+ "lich": {
+  "1": {
+   "tuoi": "8 – 9",
+   "tuan": 36,
+   "buoi": 72,
+   "phut": 90,
+   "hang": [
+    {
+     "khoi": "Học cách học",
+     "noi_dung": "Học cách học (giữ nguyên) (giữa khối có tuần nghỉ 2/9)",
+     "buoi": 8
+    },
+    {
+     "khoi": "L3·T1",
+     "noi_dung": "AI ĐỨNG TRƯỚC AI",
+     "buoi": 6
+    },
+    {
+     "khoi": "L3·T2",
+     "noi_dung": "CHỮ SỐ LÀM NÊN SỐ",
+     "buoi": 6
+    },
+    {
+     "khoi": "L3·T3",
+     "noi_dung": "CẢ VÀ PHẦN: Ô SỐ VÀ CHỮ SỐ BỊ GIẤU",
+     "buoi": 6
+    },
+    {
+     "khoi": "L3·T4",
+     "noi_dung": "NHÓM BẰNG NHAU: NHÂN, CHIA VÀ GẤP MẤY LẦN",
+     "buoi": 6
+    },
+    {
+     "khoi": "Ôn",
+     "noi_dung": "Ôn tích hợp Chặng 1",
+     "buoi": 2
+    },
+    {
+     "khoi": "Đánh giá",
+     "noi_dung": "Đánh giá Chặng 1",
+     "buoi": 1
+    },
+    {
+     "khoi": "L3·T5",
+     "noi_dung": "LIỆT KÊ KHÔNG SÓT (giữa khối có tuần nghỉ Tết dương lịch)",
+     "buoi": 5
+    },
+    {
+     "khoi": "L3·T6",
+     "noi_dung": "THỜI GIAN VÀ VÒNG LẶP",
+     "buoi": 6
+    },
+    {
+     "khoi": "L3·T7",
+     "noi_dung": "HÌNH TRÊN LƯỚI Ô VUÔNG",
+     "buoi": 5
+    },
+    {
+     "khoi": "Ôn",
+     "noi_dung": "Ôn tích hợp Chặng 2",
+     "buoi": 2
+    },
+    {
+     "khoi": "Đánh giá",
+     "noi_dung": "Đánh giá Chặng 2",
+     "buoi": 2
+    },
+    {
+     "khoi": "L3·T8",
+     "noi_dung": "SƠ ĐỒ ĐOẠN THẲNG: MỘT PHẦN CỦA CẢ, HƠN KÉM VÀ ĐI NGƯỢC",
+     "buoi": 6
+    },
+    {
+     "khoi": "L3·T9",
+     "noi_dung": "CÂN BẰNG VÀ THAY THẾ (giữa khối có tuần nghỉ 30/4 – 1/5)",
+     "buoi": 6
+    },
+    {
+     "khoi": "Ôn",
+     "noi_dung": "Ôn tích hợp cuối năm",
+     "buoi": 2
+    },
+    {
+     "khoi": "Đánh giá",
+     "noi_dung": "Đánh giá cuối năm",
+     "buoi": 2
+    },
+    {
+     "khoi": "Đệm",
+     "noi_dung": "Đệm",
+     "buoi": 1
+    }
+   ]
+  },
+  "2": {
+   "tuoi": "9 – 10",
+   "tuan": 42,
+   "buoi": 84,
+   "phut": 105,
+   "hang": [
+    {
+     "khoi": "L4·T1",
+     "noi_dung": "LOGIC NÂNG CAO",
+     "buoi": 6
+    },
+    {
+     "khoi": "L4·T2",
+     "noi_dung": "HÌNH GHÉP PHẲNG VÀ KHỐI LẬP PHƯƠNG",
+     "buoi": 7
+    },
+    {
+     "khoi": "Ôn",
+     "noi_dung": "Ôn tích hợp Chặng 1",
+     "buoi": 2
+    },
+    {
+     "khoi": "Đánh giá",
+     "noi_dung": "Đánh giá Chặng 1 (giữa khối có tuần nghỉ 2/9)",
+     "buoi": 2
+    },
+    {
+     "khoi": "L4·T3",
+     "noi_dung": "CHẴN – LẺ VÀ DẤU HIỆU CHIA HẾT",
+     "buoi": 6
+    },
+    {
+     "khoi": "L4·T4",
+     "noi_dung": "ƯỚC, BỘI, SỐ NGUYÊN TỐ VÀ SỐ DƯ",
+     "buoi": 6
+    },
+    {
+     "khoi": "L4·T5",
+     "noi_dung": "DÃY CÁCH ĐỀU",
+     "buoi": 5
+    },
+    {
+     "khoi": "L4·T6",
+     "noi_dung": "QUY LUẬT DÃY SỐ, DÃY HÌNH",
+     "buoi": 6
+    },
+    {
+     "khoi": "Ôn",
+     "noi_dung": "Ôn tích hợp Chặng 2",
+     "buoi": 2
+    },
+    {
+     "khoi": "Đánh giá",
+     "noi_dung": "Đánh giá Chặng 2",
+     "buoi": 2
+    },
+    {
+     "khoi": "L4·T7",
+     "noi_dung": "TỔNG – HIỆU VÀ TÍNH NGƯỢC",
+     "buoi": 6
+    },
+    {
+     "khoi": "L4·T8",
+     "noi_dung": "TÍNH CHẤT PHÉP TÍNH VÀ TÍNH NHANH",
+     "buoi": 6
+    },
+    {
+     "khoi": "Ôn",
+     "noi_dung": "Ôn tích hợp Chặng 3",
+     "buoi": 2
+    },
+    {
+     "khoi": "Đánh giá",
+     "noi_dung": "Đánh giá Chặng 3",
+     "buoi": 2
+    },
+    {
+     "khoi": "L4·T9",
+     "noi_dung": "GIẢ THIẾT TẠM VÀ HIỆU KHÔNG ĐỔI",
+     "buoi": 5
+    },
+    {
+     "khoi": "L4·T10",
+     "noi_dung": "ĐẾM MỌI CÁCH VÀ ĐẾM HÌNH",
+     "buoi": 5
+    },
+    {
+     "khoi": "L4·T11",
+     "noi_dung": "PHÂN SỐ",
+     "buoi": 5
+    },
+    {
+     "khoi": "L4·T12",
+     "noi_dung": "BÀI TOÁN PHÂN SỐ (giữa khối có tuần nghỉ 30/4 – 1/5)",
+     "buoi": 5
+    },
+    {
+     "khoi": "Ôn",
+     "noi_dung": "Ôn tích hợp cuối năm",
+     "buoi": 2
+    },
+    {
+     "khoi": "Đánh giá",
+     "noi_dung": "Đánh giá cuối năm",
+     "buoi": 2
+    }
+   ]
+  },
+  "3": {
+   "tuoi": "10 – 11",
+   "tuan": 46,
+   "buoi": 96,
+   "phut": 105,
+   "hang": [
+    {
+     "khoi": "L5·T1",
+     "noi_dung": "GIẢ THIẾT TẠM NÂNG CAO VÀ THỪA – THIẾU",
+     "buoi": 5
+    },
+    {
+     "khoi": "L5·T2",
+     "noi_dung": "SỐ HỌC NÂNG CAO",
+     "buoi": 7
+    },
+    {
+     "khoi": "L5·T3",
+     "noi_dung": "QUY TẮC MỚI VÀ KHÁI QUÁT BẰNG CHỮ",
+     "buoi": 5
+    },
+    {
+     "khoi": "L5·T4",
+     "noi_dung": "SƠ ĐỒ VENN, NGUYÊN LÝ DIRICHLET VÀ ĐẾM NÂNG CAO (giữa khối có tuần nghỉ 2/9)",
+     "buoi": 6
+    },
+    {
+     "khoi": "Ôn",
+     "noi_dung": "Ôn tích hợp Chặng 1",
+     "buoi": 2
+    },
+    {
+     "khoi": "Đánh giá",
+     "noi_dung": "Đánh giá Chặng 1",
+     "buoi": 2
+    },
+    {
+     "khoi": "L5·T5",
+     "noi_dung": "PHÂN SỐ NÂNG CAO, SỐ THẬP PHÂN VÀ TÍNH NGƯỢC",
+     "buoi": 6
+    },
+    {
+     "khoi": "L5·T6",
+     "noi_dung": "GÓC, TAM GIÁC, HÌNH THANG VÀ HÌNH GHÉP",
+     "buoi": 6
+    },
+    {
+     "khoi": "L5·T7",
+     "noi_dung": "HÌNH TRÒN VÀ PHẦN TÔ MÀU",
+     "buoi": 6
+    },
+    {
+     "khoi": "Ôn",
+     "noi_dung": "Ôn tích hợp Chặng 2",
+     "buoi": 2
+    },
+    {
+     "khoi": "Đánh giá",
+     "noi_dung": "Đánh giá Chặng 2",
+     "buoi": 2
+    },
+    {
+     "khoi": "L5·T8",
+     "noi_dung": "TỈ SỐ, PHẦN TRĂM VÀ BÀI TOÁN TUỔI (giữa khối có tuần nghỉ Tết dương lịch)",
+     "buoi": 7
+    },
+    {
+     "khoi": "L5·T9",
+     "noi_dung": "THỂ TÍCH, ĐỔ NƯỚC, SƠN MẶT VÀ XẾP HÌNH",
+     "buoi": 6
+    },
+    {
+     "khoi": "L5·T10",
+     "noi_dung": "CHUYỂN ĐỘNG VÀ CÔNG VIỆC CHUNG",
+     "buoi": 6
+    },
+    {
+     "khoi": "L5·T11",
+     "noi_dung": "ĐỌC SỐ LIỆU VÀ QUY TẮC LẠ",
+     "buoi": 4
+    },
+    {
+     "khoi": "Ôn",
+     "noi_dung": "Ôn tích hợp Chặng 3",
+     "buoi": 2
+    },
+    {
+     "khoi": "Đánh giá",
+     "noi_dung": "Đánh giá Chặng 3",
+     "buoi": 2
+    },
+    {
+     "khoi": "Tổng ôn",
+     "noi_dung": "Tổng ôn 1 · Logic, đếm và tổ hợp",
+     "buoi": 2
+    },
+    {
+     "khoi": "Tổng ôn",
+     "noi_dung": "Tổng ôn 2 · Số, phép tính và số học",
+     "buoi": 2
+    },
+    {
+     "khoi": "Tổng ôn",
+     "noi_dung": "Tổng ôn 3 · Mô hình và toán có lời văn",
+     "buoi": 2
+    },
+    {
+     "khoi": "Tổng ôn",
+     "noi_dung": "Tổng ôn 4 · Hình học và không gian",
+     "buoi": 2
+    },
+    {
+     "khoi": "Tổng ôn",
+     "noi_dung": "Tổng ôn 5 · Quy luật và bài tổng hợp",
+     "buoi": 2
+    },
+    {
+     "khoi": "Đề",
+     "noi_dung": "Đề toàn phần 1 (làm và chữa)",
+     "buoi": 2
+    },
+    {
+     "khoi": "Đề",
+     "noi_dung": "Đề toàn phần 2",
+     "buoi": 2
+    },
+    {
+     "khoi": "Đề",
+     "noi_dung": "Đề toàn phần 3",
+     "buoi": 2
+    },
+    {
+     "khoi": "Đề",
+     "noi_dung": "Đề toàn phần 4",
+     "buoi": 2
+    },
+    {
+     "khoi": "Nước rút",
+     "noi_dung": "Nước rút: bài nhẹ, không đề mới",
+     "buoi": 2
+    }
+   ]
+  }
+ },
+ "tram": [
+  {
+   "ma": "L3·T1",
+   "ten": "AI ĐỨNG TRƯỚC AI",
+   "mach": "LG",
+   "buoi": 6,
+   "so_muc": 12
+  },
+  {
+   "ma": "L3·T2",
+   "ten": "CHỮ SỐ LÀM NÊN SỐ",
+   "mach": "SO",
+   "buoi": 6,
+   "so_muc": 12
+  },
+  {
+   "ma": "L3·T3",
+   "ten": "CẢ VÀ PHẦN: Ô SỐ VÀ CHỮ SỐ BỊ GIẤU",
+   "mach": "SO",
+   "buoi": 6,
+   "so_muc": 12
+  },
+  {
+   "ma": "L3·T4",
+   "ten": "NHÓM BẰNG NHAU: NHÂN, CHIA VÀ GẤP MẤY LẦN",
+   "mach": "SO",
+   "buoi": 6,
+   "so_muc": 12
+  },
+  {
+   "ma": "L3·T5",
+   "ten": "LIỆT KÊ KHÔNG SÓT",
+   "mach": "DT",
+   "buoi": 5,
+   "so_muc": 11
+  },
+  {
+   "ma": "L3·T6",
+   "ten": "THỜI GIAN VÀ VÒNG LẶP",
+   "mach": "SH",
+   "buoi": 6,
+   "so_muc": 13
+  },
+  {
+   "ma": "L3·T7",
+   "ten": "HÌNH TRÊN LƯỚI Ô VUÔNG",
+   "mach": "HH",
+   "buoi": 5,
+   "so_muc": 12
+  },
+  {
+   "ma": "L3·T8",
+   "ten": "SƠ ĐỒ ĐOẠN THẲNG: MỘT PHẦN CỦA CẢ, HƠN KÉM VÀ ĐI NGƯỢC",
+   "mach": "MH",
+   "buoi": 6,
+   "so_muc": 13
+  },
+  {
+   "ma": "L3·T9",
+   "ten": "CÂN BẰNG VÀ THAY THẾ",
+   "mach": "QL",
+   "buoi": 6,
+   "so_muc": 13
+  },
+  {
+   "ma": "L4·T1",
+   "ten": "LOGIC NÂNG CAO",
+   "mach": "LG",
+   "buoi": 6,
+   "so_muc": 12
+  },
+  {
+   "ma": "L4·T2",
+   "ten": "HÌNH GHÉP PHẲNG VÀ KHỐI LẬP PHƯƠNG",
+   "mach": "HH",
+   "buoi": 7,
+   "so_muc": 14
+  },
+  {
+   "ma": "L4·T3",
+   "ten": "CHẴN – LẺ VÀ DẤU HIỆU CHIA HẾT",
+   "mach": "SH",
+   "buoi": 6,
+   "so_muc": 12
+  },
+  {
+   "ma": "L4·T4",
+   "ten": "ƯỚC, BỘI, SỐ NGUYÊN TỐ VÀ SỐ DƯ",
+   "mach": "SH",
+   "buoi": 6,
+   "so_muc": 12
+  },
+  {
+   "ma": "L4·T5",
+   "ten": "DÃY CÁCH ĐỀU",
+   "mach": "QL",
+   "buoi": 5,
+   "so_muc": 10
+  },
+  {
+   "ma": "L4·T6",
+   "ten": "QUY LUẬT DÃY SỐ, DÃY HÌNH",
+   "mach": "QL",
+   "buoi": 6,
+   "so_muc": 12
+  },
+  {
+   "ma": "L4·T7",
+   "ten": "TỔNG – HIỆU VÀ TÍNH NGƯỢC",
+   "mach": "MH",
+   "buoi": 6,
+   "so_muc": 12
+  },
+  {
+   "ma": "L4·T8",
+   "ten": "TÍNH CHẤT PHÉP TÍNH VÀ TÍNH NHANH",
+   "mach": "SO",
+   "buoi": 6,
+   "so_muc": 12
+  },
+  {
+   "ma": "L4·T9",
+   "ten": "GIẢ THIẾT TẠM VÀ HIỆU KHÔNG ĐỔI",
+   "mach": "MH",
+   "buoi": 5,
+   "so_muc": 11
+  },
+  {
+   "ma": "L4·T10",
+   "ten": "ĐẾM MỌI CÁCH VÀ ĐẾM HÌNH",
+   "mach": "DT",
+   "buoi": 5,
+   "so_muc": 11
+  },
+  {
+   "ma": "L4·T11",
+   "ten": "PHÂN SỐ",
+   "mach": "SO",
+   "buoi": 5,
+   "so_muc": 11
+  },
+  {
+   "ma": "L4·T12",
+   "ten": "BÀI TOÁN PHÂN SỐ",
+   "mach": "MH",
+   "buoi": 5,
+   "so_muc": 10
+  },
+  {
+   "ma": "L5·T1",
+   "ten": "GIẢ THIẾT TẠM NÂNG CAO VÀ THỪA – THIẾU",
+   "mach": "MH",
+   "buoi": 5,
+   "so_muc": 10
+  },
+  {
+   "ma": "L5·T2",
+   "ten": "SỐ HỌC NÂNG CAO",
+   "mach": "SH",
+   "buoi": 7,
+   "so_muc": 14
+  },
+  {
+   "ma": "L5·T3",
+   "ten": "QUY TẮC MỚI VÀ KHÁI QUÁT BẰNG CHỮ",
+   "mach": "QL",
+   "buoi": 5,
+   "so_muc": 10
+  },
+  {
+   "ma": "L5·T4",
+   "ten": "SƠ ĐỒ VENN, NGUYÊN LÝ DIRICHLET VÀ ĐẾM NÂNG CAO",
+   "mach": "DT",
+   "buoi": 6,
+   "so_muc": 13
+  },
+  {
+   "ma": "L5·T5",
+   "ten": "PHÂN SỐ NÂNG CAO, SỐ THẬP PHÂN VÀ TÍNH NGƯỢC",
+   "mach": "SO",
+   "buoi": 6,
+   "so_muc": 12
+  },
+  {
+   "ma": "L5·T6",
+   "ten": "GÓC, TAM GIÁC, HÌNH THANG VÀ HÌNH GHÉP",
+   "mach": "HH",
+   "buoi": 6,
+   "so_muc": 12
+  },
+  {
+   "ma": "L5·T7",
+   "ten": "HÌNH TRÒN VÀ PHẦN TÔ MÀU",
+   "mach": "HH",
+   "buoi": 6,
+   "so_muc": 11
+  },
+  {
+   "ma": "L5·T8",
+   "ten": "TỈ SỐ, PHẦN TRĂM VÀ BÀI TOÁN TUỔI",
+   "mach": "MH",
+   "buoi": 7,
+   "so_muc": 15
+  },
+  {
+   "ma": "L5·T9",
+   "ten": "THỂ TÍCH, ĐỔ NƯỚC, SƠN MẶT VÀ XẾP HÌNH",
+   "mach": "HH",
+   "buoi": 6,
+   "so_muc": 11
+  },
+  {
+   "ma": "L5·T10",
+   "ten": "CHUYỂN ĐỘNG VÀ CÔNG VIỆC CHUNG",
+   "mach": "MH",
+   "buoi": 6,
+   "so_muc": 12
+  },
+  {
+   "ma": "L5·T11",
+   "ten": "ĐỌC SỐ LIỆU VÀ QUY TẮC LẠ",
+   "mach": "DT",
+   "buoi": 4,
+   "so_muc": 9
+  }
+ ]
+}
