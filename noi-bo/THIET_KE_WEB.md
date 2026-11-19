@@ -47,7 +47,7 @@ Menu trên cùng (điện thoại gập vào nút “Menu”): Chương trình �
 - Chữ thân bài 17 px (1,0625 rem), giãn dòng 1,65; không có chữ nào dưới 16 px (kể cả nhãn nhỏ, chú thích, chân trang).
 - Tiêu đề nét 600, giãn dòng 1,15 đến 1,2, không ép khoảng cách chữ (theo bộ nhận diện).
 - Menu: nút “Menu” mở danh sách dọc cỡ lớn. Nếu trình duyệt tắt JavaScript, danh sách vẫn hiện sẵn.
-- Từ 760 px: thẻ xếp hai cột; từ 1040 px: ba hoặc bốn cột, khung rộng tối đa 1120 px, menu trải ngang.
+- Từ 760 px: thẻ xếp hai cột; từ 1040 px: ba hoặc bốn cột, khung rộng tối đa 1120 px; từ 1180 px menu trải ngang một hàng.
 - Giảm chuyển động: mọi hiệu ứng chuyển động (nhấc thẻ khi rê chuột, cuộn mượt) tắt khi thiết bị đặt “giảm chuyển động”. Trang không có hoạt cảnh nào bắt buộc để hiểu nội dung.
 - Tải nhanh: không khung dựng sẵn (framework), không phông ngoài chặn hiển thị, mỗi trang chỉ một tệp CSS (khoảng 20 KB), một tệp JS rất nhỏ (menu, lọc), ảnh chia sẻ chỉ tải khi mạng xã hội cần. Mục tiêu: trang chủ dưới 200 KB lần đầu (không tính logo trong bộ nhận diện).
 

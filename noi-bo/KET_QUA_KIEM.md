@@ -1,8 +1,8 @@
-# Kết quả kiểm web Toán (19/11/2026 16:03)
+# Kết quả kiểm web Toán (19/11/2026 16:06)
 
-Lệnh: `python3 nguon/kiem_site.py`. Trang kiểm: 15 (gồm 404).
+Lệnh: `python3 nguon/kiem_site.py --mang`. Trang kiểm: 15 (gồm 404).
 
-**Kết luận: ĐẠT, 0 lỗi chặn** · cảnh báo: 1 · khung CẦN CÔ ĐIỀN còn trong bản xem trước: 19
+**Kết luận: ĐẠT, 0 lỗi chặn** · cảnh báo: 0 · khung CẦN CÔ ĐIỀN còn trong bản xem trước: 19
 
 ## Đã đạt
 - Trạm theo năm: 9 + 12 + 11 = 32 (khớp Mục lục 9.2)
@@ -19,12 +19,14 @@ Lệnh: `python3 nguon/kiem_site.py`. Trang kiểm: 15 (gồm 404).
 - Giảm chuyển động: có @media (prefers-reduced-motion: no-preference) bọc mọi hiệu ứng chuyển động (cuộn mượt, nhấc thẻ)
 - Tốc độ: trang chủ tải lần đầu khoảng 78 KB (HTML 15 + CSS 16 + JS 0 + logo/biểu tượng 45), không khung dựng sẵn, phông Inter nạp không chặn hiển thị; không chữ nào dưới 16 px trong CSS
 - Cấu trúc: mọi trang có lang=vi, đúng một h1, viewport, ảnh có alt, tiêu đề không trùng
+- Mạng: https://lab.tramtuduy.org mở được (mã 200)
+- Mạng: https://tramtuduy.org mở được (mã 200)
 
 ## Lỗi
 - không
 
 ## Cảnh báo, chỗ chưa kiểm được
-- [Cổng 7] Chưa kiểm mạng (chạy lại với --mang để kiểm lab và web chính còn mở).
+- không
 
 ## Chỗ chờ cô điền theo trang (bản xem trước)
 - `/cau-hoi/`: 5
@@ -55,4 +57,4 @@ Lệnh: `python3 nguon/kiem_site.py`. Trang kiểm: 15 (gồm 404).
 | `/tu-lop-hoc/` | 6,320 |
 | `/` | 5,082 |
 
-CSS 17,241 · JS 822 · logo ngang SVG 27,675 · biểu tượng SVG 19,312 · ảnh chia sẻ mỗi trang khoảng 43,927 (chỉ tải khi mạng xã hội cần)
+CSS 17,370 · JS 822 · logo ngang SVG 27,675 · biểu tượng SVG 19,312 · ảnh chia sẻ mỗi trang khoảng 43,927 (chỉ tải khi mạng xã hội cần)
