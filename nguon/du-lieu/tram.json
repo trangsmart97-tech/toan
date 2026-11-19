@@ -1,0 +1,442 @@
+{
+ "nguon": "Mục lục chương trình Toán tư duy 3 năm, Bản 9.2 (08/11/2026), tệp danh_muc_tram_ban9.json; chỉ lấy mã, tên, câu hỏi lớn, mạch, số buổi, câu hứa.",
+ "ban": "9.2",
+ "mach": {
+  "LG": "Logic và suy luận",
+  "SO": "Số và phép tính",
+  "SH": "Số học: chẵn lẻ, chia hết, ước, số dư",
+  "QL": "Quy luật và đại số sớm",
+  "DT": "Đếm, tổ hợp, khả năng và số liệu",
+  "MH": "Mô hình và toán có lời văn",
+  "HH": "Hình học và không gian"
+ },
+ "tram": [
+  {
+   "ma": "L3·T1",
+   "nam": 1,
+   "tuoi": "8 – 9 tuổi",
+   "ten": "AI ĐỨNG TRƯỚC AI",
+   "hoi": "Từ vài manh mối, làm sao biết chắc thứ tự?",
+   "mach": "LG",
+   "phu": [
+    "SO"
+   ],
+   "buoi": 6,
+   "hua": "Đọc từng manh mối, con tìm ra thứ tự."
+  },
+  {
+   "ma": "L3·T2",
+   "nam": 1,
+   "tuoi": "8 – 9 tuổi",
+   "ten": "CHỮ SỐ LÀM NÊN SỐ",
+   "hoi": "Mỗi chữ số đứng ở hàng nào thì có giá trị bao nhiêu?",
+   "mach": "SO",
+   "phu": [
+    "SH"
+   ],
+   "buoi": 6,
+   "hua": "Đặt mỗi chữ số đúng hàng, con đọc hiểu mọi số."
+  },
+  {
+   "ma": "L3·T3",
+   "nam": 1,
+   "tuoi": "8 – 9 tuổi",
+   "ten": "CẢ VÀ PHẦN: Ô SỐ VÀ CHỮ SỐ BỊ GIẤU",
+   "hoi": "Biết cả và một phần, làm sao tìm phần còn lại?",
+   "mach": "SO",
+   "phu": [
+    "LG"
+   ],
+   "buoi": 6,
+   "hua": "Biết cả và một phần, con tìm ra phần còn lại."
+  },
+  {
+   "ma": "L3·T4",
+   "nam": 1,
+   "tuoi": "8 – 9 tuổi",
+   "ten": "NHÓM BẰNG NHAU: NHÂN, CHIA VÀ GẤP MẤY LẦN",
+   "hoi": "Khi nào là “gấp”, khi nào là “thêm”?",
+   "mach": "SO",
+   "phu": [
+    "MH",
+    "SH"
+   ],
+   "buoi": 6,
+   "hua": "Thấy nhóm bằng nhau, con biết lúc nào nhân, lúc nào chia."
+  },
+  {
+   "ma": "L3·T5",
+   "nam": 1,
+   "tuoi": "8 – 9 tuổi",
+   "ten": "LIỆT KÊ KHÔNG SÓT",
+   "hoi": "Làm sao chắc là đã đếm đủ, không sót, không trùng?",
+   "mach": "DT",
+   "phu": [
+    "LG"
+   ],
+   "buoi": 5,
+   "hua": "Viết theo thứ tự, con đếm đủ, không sót, không trùng."
+  },
+  {
+   "ma": "L3·T6",
+   "nam": 1,
+   "tuoi": "8 – 9 tuổi",
+   "ten": "THỜI GIAN VÀ VÒNG LẶP",
+   "hoi": "Cái gì lặp lại, và 100 ngày nữa là thứ mấy?",
+   "mach": "SH",
+   "phu": [
+    "QL",
+    "SO"
+   ],
+   "buoi": 6,
+   "hua": "Tìm ra nhóm lặp lại, con biết trước điều sắp đến."
+  },
+  {
+   "ma": "L3·T7",
+   "nam": 1,
+   "tuoi": "8 – 9 tuổi",
+   "ten": "HÌNH TRÊN LƯỚI Ô VUÔNG",
+   "hoi": "Không có thước, làm sao đo và so hai hình?",
+   "mach": "HH",
+   "phu": [
+    "DT"
+   ],
+   "buoi": 5,
+   "hua": "Không cần thước, con đếm ô mà đo được hình."
+  },
+  {
+   "ma": "L3·T8",
+   "nam": 1,
+   "tuoi": "8 – 9 tuổi",
+   "ten": "SƠ ĐỒ ĐOẠN THẲNG: MỘT PHẦN CỦA CẢ, HƠN KÉM VÀ ĐI NGƯỢC",
+   "hoi": "Vẽ ra thì thấy được gì mà nghĩ trong đầu không thấy?",
+   "mach": "MH",
+   "phu": [
+    "SO"
+   ],
+   "buoi": 6,
+   "hua": "Vẽ ra một thanh, con thấy điều đề bài giấu."
+  },
+  {
+   "ma": "L3·T9",
+   "nam": 1,
+   "tuoi": "8 – 9 tuổi",
+   "ten": "CÂN BẰNG VÀ THAY THẾ",
+   "hoi": "Khi hai bên bằng nhau, con đổi được gì mà vẫn bằng?",
+   "mach": "QL",
+   "phu": [
+    "MH",
+    "SO"
+   ],
+   "buoi": 6,
+   "hua": "Giữ hai bên cân bằng, con đổi được mọi thứ."
+  },
+  {
+   "ma": "L4·T1",
+   "nam": 2,
+   "tuoi": "9 – 10 tuổi",
+   "ten": "LOGIC NÂNG CAO",
+   "hoi": "Ai nói thật, và làm sao chắc chắn?",
+   "mach": "LG",
+   "phu": [
+    "DT"
+   ],
+   "buoi": 6,
+   "hua": "Xét hết mọi khả năng, con biết chắc ai nói thật."
+  },
+  {
+   "ma": "L4·T2",
+   "nam": 2,
+   "tuoi": "9 – 10 tuổi",
+   "ten": "HÌNH GHÉP PHẲNG VÀ KHỐI LẬP PHƯƠNG",
+   "hoi": "Một hình lạ được ghép từ những hình quen nào?",
+   "mach": "HH",
+   "phu": [
+    "DT"
+   ],
+   "buoi": 7,
+   "hua": "Tách hình lạ thành hình quen, con tính được ngay."
+  },
+  {
+   "ma": "L4·T3",
+   "nam": 2,
+   "tuoi": "9 – 10 tuổi",
+   "ten": "CHẴN – LẺ VÀ DẤU HIỆU CHIA HẾT",
+   "hoi": "Không cần chia, làm sao biết một số chia hết cho 2, 3, 5, 9?",
+   "mach": "SH",
+   "phu": [
+    "LG",
+    "DT"
+   ],
+   "buoi": 6,
+   "hua": "Không cần chia, con vẫn biết số chia hết cho mấy."
+  },
+  {
+   "ma": "L4·T4",
+   "nam": 2,
+   "tuoi": "9 – 10 tuổi",
+   "ten": "ƯỚC, BỘI, SỐ NGUYÊN TỐ VÀ SỐ DƯ",
+   "hoi": "Một số được “xây” từ những số nào?",
+   "mach": "SH",
+   "phu": [
+    "QL"
+   ],
+   "buoi": 6,
+   "hua": "Tách số thành tích, con thấy số được xây thế nào."
+  },
+  {
+   "ma": "L4·T5",
+   "nam": 2,
+   "tuoi": "9 – 10 tuổi",
+   "ten": "DÃY CÁCH ĐỀU",
+   "hoi": "Không viết hết dãy, làm sao biết dãy có bao nhiêu số và tổng bằng bao nhiêu?",
+   "mach": "QL",
+   "phu": [
+    "SO",
+    "MH"
+   ],
+   "buoi": 5,
+   "hua": "Không viết hết dãy, con vẫn đếm đúng và tính nhanh."
+  },
+  {
+   "ma": "L4·T6",
+   "nam": 2,
+   "tuoi": "9 – 10 tuổi",
+   "ten": "QUY LUẬT DÃY SỐ, DÃY HÌNH",
+   "hoi": "Quy tắc nào sinh ra dãy này, và hình thứ 100 trông thế nào?",
+   "mach": "QL",
+   "phu": [
+    "LG"
+   ],
+   "buoi": 6,
+   "hua": "Tìm ra quy tắc, con biết trước hình thứ 100."
+  },
+  {
+   "ma": "L4·T7",
+   "nam": 2,
+   "tuoi": "9 – 10 tuổi",
+   "ten": "TỔNG – HIỆU VÀ TÍNH NGƯỢC",
+   "hoi": "Biết tổng và hiệu, vì sao chỉ cần một sơ đồ?",
+   "mach": "MH",
+   "phu": [
+    "SO"
+   ],
+   "buoi": 6,
+   "hua": "Vẽ đúng một sơ đồ, con tìm ra từng số."
+  },
+  {
+   "ma": "L4·T8",
+   "nam": 2,
+   "tuoi": "9 – 10 tuổi",
+   "ten": "TÍNH CHẤT PHÉP TÍNH VÀ TÍNH NHANH",
+   "hoi": "Vì sao đổi chỗ, nhóm lại mà vẫn ra cùng một số?",
+   "mach": "SO",
+   "phu": [
+    "QL"
+   ],
+   "buoi": 6,
+   "hua": "Nhìn kỹ các số, con tìm ra cách tính gọn."
+  },
+  {
+   "ma": "L4·T9",
+   "nam": 2,
+   "tuoi": "9 – 10 tuổi",
+   "ten": "GIẢ THIẾT TẠM VÀ HIỆU KHÔNG ĐỔI",
+   "hoi": "Nếu tất cả đều là gà thì sao?",
+   "mach": "MH",
+   "phu": [
+    "LG"
+   ],
+   "buoi": 5,
+   "hua": "Giả sử tất cả giống nhau, con thấy ngay phần chênh."
+  },
+  {
+   "ma": "L4·T10",
+   "nam": 2,
+   "tuoi": "9 – 10 tuổi",
+   "ten": "ĐẾM MỌI CÁCH VÀ ĐẾM HÌNH",
+   "hoi": "Khi nào cộng số cách, khi nào nhân số cách?",
+   "mach": "DT",
+   "phu": [
+    "HH"
+   ],
+   "buoi": 5,
+   "hua": "Đếm theo một thứ tự, con không sót cách nào."
+  },
+  {
+   "ma": "L4·T11",
+   "nam": 2,
+   "tuoi": "9 – 10 tuổi",
+   "ten": "PHÂN SỐ",
+   "hoi": "Một phần của cái gì?",
+   "mach": "SO",
+   "phu": [
+    "MH",
+    "SH"
+   ],
+   "buoi": 5,
+   "hua": "Chia đều, đặt lên tia số, con thấy phân số lớn bé."
+  },
+  {
+   "ma": "L4·T12",
+   "nam": 2,
+   "tuoi": "9 – 10 tuổi",
+   "ten": "BÀI TOÁN PHÂN SỐ",
+   "hoi": "Biết một phần, làm sao tìm cả?",
+   "mach": "MH",
+   "phu": [
+    "SO"
+   ],
+   "buoi": 5,
+   "hua": "Vẽ thanh và đi ngược, con tìm ra cái cả."
+  },
+  {
+   "ma": "L5·T1",
+   "nam": 3,
+   "tuoi": "10 – 11 tuổi",
+   "ten": "GIẢ THIẾT TẠM NÂNG CAO VÀ THỪA – THIẾU",
+   "hoi": "Một giả thiết sai giúp tìm ra điều đúng như thế nào?",
+   "mach": "MH",
+   "phu": [
+    "LG"
+   ],
+   "buoi": 5,
+   "hua": "Thử một giả sử sai, con tìm ra số đúng."
+  },
+  {
+   "ma": "L5·T2",
+   "nam": 3,
+   "tuoi": "10 – 11 tuổi",
+   "ten": "SỐ HỌC NÂNG CAO",
+   "hoi": "Số dư và ước chung kể gì về một số?",
+   "mach": "SH",
+   "phu": [
+    "DT",
+    "QL"
+   ],
+   "buoi": 7,
+   "hua": "Tách số thành thừa số, con thấy điều số ấy giấu."
+  },
+  {
+   "ma": "L5·T3",
+   "nam": 3,
+   "tuoi": "10 – 11 tuổi",
+   "ten": "QUY TẮC MỚI VÀ KHÁI QUÁT BẰNG CHỮ",
+   "hoi": "Viết một quy tắc đúng cho mọi số, không chỉ cho số này?",
+   "mach": "QL",
+   "phu": [
+    "SO",
+    "LG"
+   ],
+   "buoi": 5,
+   "hua": "Con viết quy tắc, rồi thay số để chắc nó đúng."
+  },
+  {
+   "ma": "L5·T4",
+   "nam": 3,
+   "tuoi": "10 – 11 tuổi",
+   "ten": "SƠ ĐỒ VENN, NGUYÊN LÝ DIRICHLET VÀ ĐẾM NÂNG CAO",
+   "hoi": "Ít nhất bao nhiêu thì chắc chắn?",
+   "mach": "DT",
+   "phu": [
+    "LG"
+   ],
+   "buoi": 6,
+   "hua": "Nghĩ đến lần xui nhất, con nói được điều chắc chắn."
+  },
+  {
+   "ma": "L5·T5",
+   "nam": 3,
+   "tuoi": "10 – 11 tuổi",
+   "ten": "PHÂN SỐ NÂNG CAO, SỐ THẬP PHÂN VÀ TÍNH NGƯỢC",
+   "hoi": "Cùng một lượng, viết bằng phân số hay số thập phân thì lợi hơn?",
+   "mach": "SO",
+   "phu": [
+    "MH",
+    "QL"
+   ],
+   "buoi": 6,
+   "hua": "Phân số hay số thập phân, con chọn cách viết dễ so."
+  },
+  {
+   "ma": "L5·T6",
+   "nam": 3,
+   "tuoi": "10 – 11 tuổi",
+   "ten": "GÓC, TAM GIÁC, HÌNH THANG VÀ HÌNH GHÉP",
+   "hoi": "Diện tích tam giác liên quan gì đến hình chữ nhật?",
+   "mach": "HH",
+   "phu": [
+    "DT"
+   ],
+   "buoi": 6,
+   "hua": "Cắt ghép khéo, con thấy tam giác là nửa hình chữ nhật."
+  },
+  {
+   "ma": "L5·T7",
+   "nam": 3,
+   "tuoi": "10 – 11 tuổi",
+   "ten": "HÌNH TRÒN VÀ PHẦN TÔ MÀU",
+   "hoi": "Dời mảnh nào thì phần tô thành hình quen?",
+   "mach": "HH",
+   "phu": [
+    "SO"
+   ],
+   "buoi": 6,
+   "hua": "Dời mảnh khéo, con thấy phần tô thành hình quen."
+  },
+  {
+   "ma": "L5·T8",
+   "nam": 3,
+   "tuoi": "10 – 11 tuổi",
+   "ten": "TỈ SỐ, PHẦN TRĂM VÀ BÀI TOÁN TUỔI",
+   "hoi": "Cái gì thay đổi, cái gì giữ nguyên?",
+   "mach": "MH",
+   "phu": [
+    "SO"
+   ],
+   "buoi": 7,
+   "hua": "Tìm cái giữ nguyên, con vẽ được sơ đồ đúng."
+  },
+  {
+   "ma": "L5·T9",
+   "nam": 3,
+   "tuoi": "10 – 11 tuổi",
+   "ten": "THỂ TÍCH, ĐỔ NƯỚC, SƠN MẶT VÀ XẾP HÌNH",
+   "hoi": "Cắt khối lớn thành khối nhỏ, bao nhiêu khối có hai mặt sơn?",
+   "mach": "HH",
+   "phu": [
+    "DT",
+    "QL"
+   ],
+   "buoi": 6,
+   "hua": "Đếm từng lớp khối, con biết hộp chứa được bao nhiêu."
+  },
+  {
+   "ma": "L5·T10",
+   "nam": 3,
+   "tuoi": "10 – 11 tuổi",
+   "ten": "CHUYỂN ĐỘNG VÀ CÔNG VIỆC CHUNG",
+   "hoi": "Hai người cùng đi, mỗi giờ khoảng cách đổi bao nhiêu?",
+   "mach": "MH",
+   "phu": [
+    "SO"
+   ],
+   "buoi": 6,
+   "hua": "Vẽ hai mốc giờ, con thấy khoảng cách đổi thế nào."
+  },
+  {
+   "ma": "L5·T11",
+   "nam": 3,
+   "tuoi": "10 – 11 tuổi",
+   "ten": "ĐỌC SỐ LIỆU VÀ QUY TẮC LẠ",
+   "hoi": "Thông tin cho sẵn đang nói điều gì, và dùng nó thế nào?",
+   "mach": "DT",
+   "phu": [
+    "MH",
+    "SO"
+   ],
+   "buoi": 4,
+   "hua": "Đọc kỹ bảng và quy tắc, con dùng đúng thông tin."
+  }
+ ]
+}

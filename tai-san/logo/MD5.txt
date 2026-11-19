@@ -1,0 +1,9 @@
+# md5 các tệp logo Bản 2 (19/11/2026), chép nguyên từ THUONG HIEU/ của dự án Trần Đại Nghĩa; bản gốc không bị sửa.
+2e17c7f9d7970147e6631ac5b9cf29d7  bieu-tuong-192.png  (khop ban goc)
+22b72c5a85754c748e2d99899e948888  bieu-tuong-32.png  (khop ban goc)
+9e75b226f22d4728b75745f93bf12dd7  bieu-tuong-512.png  (khop ban goc)
+3419759a752a206a0add9ba4f9664cfa  bieu-tuong-tram-tu-duy.svg  (khop ban goc)
+5d9763023af73e3208d930a00883753c  logo-tram-tu-duy-doc.png  (khop ban goc)
+355a9a4774b1dbcf3ab3d7fabfdcf3ef  logo-tram-tu-duy-doc.svg  (khop ban goc)
+630765cb66d57a41492c335d2163aad3  logo-tram-tu-duy-ngang.png  (khop ban goc)
+961ca54d678424b276414471a71bc739  logo-tram-tu-duy-ngang.svg  (khop ban goc)
