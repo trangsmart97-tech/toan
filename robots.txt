@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /nguon/
+Disallow: /noi-bo/
+Disallow: /anh-kiem/
+
+Sitemap: https://toan.tramtuduy.org/sitemap.xml

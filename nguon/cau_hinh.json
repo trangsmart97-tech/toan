@@ -1,0 +1,22 @@
+{
+  "_ghi_chu": "Cô Trang cung cấp nội dung, session Web điền vào đây rồi chạy lại nguon/dung_site.py. Để trống thì trang hiện khung CẦN CÔ ĐIỀN.",
+  "lien_he": {
+    "dien_thoai": "",
+    "zalo": "",
+    "email": "",
+    "dia_chi": "",
+    "gio_tu_van": ""
+  },
+  "hoc_phi": "",
+  "lich_khai_giang": "",
+  "hinh_thuc_hoc": "",
+  "hoc_thu": "",
+  "vao_giua_chung": "",
+  "vi_du_lop": [],
+  "phan_hoi": [],
+  "gioi_thieu_co": {
+    "ho_ten": "",
+    "doan_van": [],
+    "anh": ""
+  }
+}
