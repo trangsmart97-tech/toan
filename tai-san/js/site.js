@@ -3,7 +3,7 @@
   var nut = document.getElementById("nut-menu");
   var menu = document.getElementById("menu");
   if (!nut || !menu) return;
-  var rong = window.matchMedia("(min-width: 1040px)");
+  var rong = window.matchMedia("(min-width: 1180px)");
   function dong() { menu.hidden = true; nut.setAttribute("aria-expanded", "false"); }
   function mo() { menu.hidden = false; nut.setAttribute("aria-expanded", "true"); }
   if (!rong.matches) dong();

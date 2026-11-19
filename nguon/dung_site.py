@@ -364,7 +364,7 @@ def trang_chu():
 <p class="mo__loi">Ba năm, {N_TRAM} Trạm. Mỗi Trạm là một câu hỏi lớn, để con hiểu tận gốc rồi mới đi tiếp.</p>
 <div class="hang-nut"><a class="btn btn--chinh" href="/32-tram/">Xem {N_TRAM} Trạm</a><a class="btn btn--phu" href="/dang-ky/">Đăng ký tư vấn</a></div>
 <ul class="so-chip">
-<li><b>3</b><span>năm, lớp 3 đến lớp 5</span></li>
+<li><b>3</b><span>năm học</span></li>
 <li><b>{N_TRAM}</b><span>Trạm</span></li>
 <li><b>{N_MACH}</b><span>mạch tư duy</span></li>
 <li><b>{N_BUOI}</b><span>buổi học</span></li>
@@ -437,7 +437,7 @@ def buoc():
 
 
 def mot_tuan():
-    return """<div class="luoi luoi--3">
+    return """<div class="luoi luoi--4">
 <div class="the"><h3>Trên lớp</h3><p>Hai buổi mỗi tuần. Mỗi buổi mở bằng 5 đến 10 phút nhớ lại bài cũ. Năm 1 và năm 2 có thêm Góc không gian 10 phút với khối, giấy, gương.</p></div>
 <div class="the"><h3>Ở nhà</h3><p>Một phiếu sau mỗi buổi, phần chính khoảng 15 phút ở năm đầu; phần ★ đến ★★★ cho con muốn thử sức. Ba mẹ ghi giờ, ký tên, và hỏi con một câu “vì sao?”.</p></div>
 <div class="the"><h3>Khi gặp khó khăn</h3><p>Con viết một câu hỏi vào ô “Khi gặp khó khăn”. Đầu buổi sau, cả lớp cùng gỡ từ chính câu hỏi của các con.</p></div>
@@ -861,7 +861,7 @@ def trang_404():
 <h1>Không tìm thấy trang này.</h1>
 <p>Có thể đường dẫn đã đổi. Mời ba mẹ về trang chủ hoặc xem {N_TRAM} Trạm.</p>
 <div class="hang-nut"><a class="btn btn--chinh" href="/">Về trang chủ</a><a class="btn btn--phu" href="/32-tram/">Xem {N_TRAM} Trạm</a></div>
-</div></section>""", khong_og=True).replace("<head>", '<head>\n<meta name="robots" content="noindex">', 1)
+</div></section>""", khong_og=True).replace("<head>", '<head>\n<meta name="robots" content="noindex">', 1).replace("<title>Toán tư duy ba năm · Trạm Tư Duy</title>", "<title>Không tìm thấy trang · Toán tư duy Trạm Tư Duy</title>", 1)
 
 
 # ================= CHẠY =================
